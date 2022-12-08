@@ -1,6 +1,5 @@
-# MPE-Proxy - https://github.com/XackiGiFF/MPE-Proxy
-
-Watch analog code proxy MCPE\MCBE
+# MPE-Proxy - https://github.com/XackiGiFF/MPE-Proxy (Watch new here)
+#Watch analog code proxy MCPE\MCBE
 
 Simple proxy for mcpe. Can setup on hostings (If that agree from owner). May protect from ddos guard, if bind on guarded host.
 All users will realy playing from proxy IP. It\`s hide ip of your clients, and you can\`t use ban-ip...
