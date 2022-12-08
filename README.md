@@ -1,4 +1,4 @@
-# MPE-Proxy - https://github.com/XackiGiFF/MPE-Proxy (Watch new here)
+# MPE-Proxy - https://github.com/XackiGiFF/MPE-Proxy (NEW here)
 #Watch analog code proxy MCPE\MCBE
 
 Simple proxy for mcpe. Can setup on hostings (If that agree from owner). May protect from ddos guard, if bind on guarded host.
